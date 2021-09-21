@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Created by @bchmsl</string>
+    <string name="fun1_hint">შეიყვანეთ რიცხვები და გამოყავით ისინი " , "-ით</string>
+    <string name="btn_1">ფუნქცია 1 <br/> უნიკალური ელემენტები</string>
+    <string name="btn_2">ფუნქცია 2 <br/> მასივების თანაკვეთა</string>
+    <string name="btn_3">ფუნქცია 3 <br/> მასივების გაერთიანება</string>
+    <string name="btn_4">ფუნქცია 4 <br/> ნაკლები საშუალოზე</string>
+    <string name="btn_5">ფუნქცია 5 <br/> თითქმის მაქსიმალური და მინიმალური</string>
+
+</resources>
