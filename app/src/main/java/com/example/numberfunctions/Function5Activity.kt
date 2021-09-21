@@ -20,18 +20,14 @@ class Function5Activity : AppCompatActivity() {
         }
     }
 }
-
 private fun function5(array1: List<String>): List<Int> {
     var returnList = arrayOf<Int>()
     var almost_min:Int
     var almost_max:Int
-
     for (i in array1)
         if (i.toInt() !in returnList)
             returnList += i.toInt()
-
     almost_min = returnList.sorted()[1]
     almost_max = returnList.sortedDescending()[1]
-
     return listOf(almost_min, almost_max)
 }
